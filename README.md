@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mitulpramanik2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/Mitul Pramanik" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Mitul Pramanik" height="30" width="40" /></a>
 </p>
